@@ -1,3 +1,6 @@
 ## Elizabeth Ty Assignments
 
 1. [Homework 1](./homework-1/)
+2. [Homework 2](./week-2/)
+
+Base URL: https://elizabethrty.github.io/SP25-NEWMN220/
