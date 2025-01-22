@@ -3,4 +3,4 @@
 1. [Homework 1](./homework-1/)
 2. [Homework 2](./homework-2/)
 
-[Base URL]: (https://elizabethrty.github.io/SP25-NEWMN220/)
+[Base URL](https://elizabethrty.github.io/SP25-NEWMN220/)
