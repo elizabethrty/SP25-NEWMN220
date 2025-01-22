@@ -23,6 +23,6 @@ Visual Studio Code is a customizable code editor which allows users to personali
 
 ### Markdown & Documentation
 
-Markdown is an easy way to add customization to text without needing any external tools. It allows different options like headings, lists, italic/bold text. Using these makes information more organized and easier to understand. 
+Markdown is an easy way to add customization to text without needing any external tools. It allows different options like headings, lists, italic/bold text, making information more organized and easier to understand. Markdown is often used as it available in any text editor and can easily be converted into any other formatting.
 
 [Example from Day One](https://i0.wp.com/dayoneapp.com/wp-content/uploads/2021/12/ScreenShot2021-08-17at12.15.18PM.png?w=780&quality=80&ssl=1)
