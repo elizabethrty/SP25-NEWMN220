@@ -11,6 +11,7 @@
 - console.clear: Clears the console.
 
 **Difference Between Internal and External Scripts:**
+
 Internal scripts are written directly within the HTML file and used for smaller projects, while external scripts are stored in a separate JavaScript file and used for larger projects.  
 
 ### Live Links
