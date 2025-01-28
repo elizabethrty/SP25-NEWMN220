@@ -14,5 +14,5 @@
 Internal scripts are written directly within the HTML file and used for smaller projects, while external scripts are stored in a separate JavaScript file and used for larger projects.  
 
 ### Live Links
-[Internal Scripts](homework-2/index.html)
-[External Scripts](homework-2/outdex.html)
+[Internal Scripts](https://elizabethrty.github.io/SP25-NEWMN220/week-2/index.html)
+[External Scripts](https://elizabethrty.github.io/SP25-NEWMN220/week-2/outdex.html)
