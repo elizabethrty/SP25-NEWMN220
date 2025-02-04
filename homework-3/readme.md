@@ -11,7 +11,10 @@ This week, I learned how to use const and let to declare variables, and how to u
 - const:
     - Values cannot be changed
     - Block scope
-    
+
 ## Misc.
 **Quick method for creating files after linking them in the code:**
 - Hover over the JS file, then hold Command and click to create a new file.
+
+### Live Links
+[Home Page](https://elizabethrty.github.io/SP25-NEWMN220/homework-3/index.html)

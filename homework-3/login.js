@@ -3,7 +3,7 @@ const passwordText = "(d0nteatTheScript)";
 
 const startsWithSpace = false;
 
-const eightOrMore = true;
+const moreThanEight = true;
 
 const containsEat = true;
 
