@@ -3,12 +3,12 @@ const Radius = 5;
 
 const Pi = Math.PI;
 
-// Using let as the area will change
-let totalArea = Math.PI * Radius**2;
+// Using const as the area will not change
+const totalArea = Math.PI * Radius**2;
 
 console.log("Area of Circle", totalArea);
 
-// Using let as the perimeter will change
-let totalPerimeter = 2 * Math.PI * Radius;
+// Using const as the perimeter will not change
+const totalPerimeter = 2 * Math.PI * Radius;
 
 console.log("Perimeter of Circle", totalPerimeter)

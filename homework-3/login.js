@@ -7,7 +7,7 @@ const moreThanEight = true;
 
 const containsEat = true;
 
-console.log("Password begins with space:", passwordText.includes(" "))
+console.log("Password begins with space:", passwordText.startsWith(" "))
 
 console.log("Password is > 8 characters:", passwordText >= 8)
 
