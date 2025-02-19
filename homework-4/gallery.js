@@ -16,7 +16,7 @@ const photoThumbnail = document.createElement("img");
 
 photoThumbnail.src = Gallery[i]; 
 
-photoThumbnail.alt = "img" + (i + 1); 
+photoThumbnail.alt = "img" + (i); 
 
 photoThumbnail.height = 300; 
 
