@@ -1,5 +1,4 @@
 # Weekly Recap
-This week, I learned how to use const and let to declare variables, and how to use operators like += and -= to add or subtract values in JavaScript. I also learned how to use object wrappers to easily round numbers using Math.ceil and Math.floor. Lastly, using string methods allows text to easily be changed if needed.
 
 ## Declaring Variables
 - var:
