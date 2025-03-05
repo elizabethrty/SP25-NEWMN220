@@ -7,7 +7,7 @@ const pokemon = {
     type: "Fire",
     weaknesses: ["Water", "Ground", "Rock"], 
 };
-// Data structure will look similar to this for midterm
+// Data structure will look similar to this for midterm. Previous assignments & physical notes can be used for midterm.
 const myParty = [
     { name: "Ponyta", type: "Fire" },
     { name: "Chimchar", type: "Fire" },
