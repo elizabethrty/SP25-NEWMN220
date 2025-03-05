@@ -7,5 +7,5 @@ function getFavoritePeepFlavor() {
     console.log("Favorite flavor:", flavor);
 }
 
-const chooseToLeave = confirm("Are you going to get the flyers?");
-console.log("Ty is getting the flyers", chooseToLeave);
+// const chooseToLeave = confirm("Are you going to get the flyers?");
+//  console.log("Ty is getting the flyers", chooseToLeave);
