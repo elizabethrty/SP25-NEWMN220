@@ -5,6 +5,6 @@
 3. [Homework 3](./homework-3/)
 4. [Homework 4](./homework-4/)
 5. [Homework 5](https://github.com/tastuck/thewagons)
-6. [Midterm](https://elizabethrty.github.io/SP25-NEWMN220/midterm/index.html)
+6. [Midterm](./midterm/)
 
 [Base URL](https://elizabethrty.github.io/SP25-NEWMN220/)
