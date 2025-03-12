@@ -14,6 +14,7 @@ const items = [
     "Onion Rings Price $2.49",
 ]
 
+
 const cart = []
 
 function removeItemFromCart() {

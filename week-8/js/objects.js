@@ -30,3 +30,15 @@ for(let i = 0; i < myParty.length; i++){
   detailsSectionRef.innerHTML += "</div>";
 }
 
+const items = {
+  name: "hamburger",
+  type: "2.99",
+  special: ["Water", "Ground", "Rock"],
+};
+// Data structure will look similar to this for midterm. Previous assignments & physical notes can be used for midterm.
+const myParty = [
+  { name: "Ponyta", type: "Fire" },
+  { name: "Chimchar", type: "Fire" },
+  { name: "Meowth", type: "Normal" },
+  { name: "Houndoom", type: "Dark | Fire" },
+];
