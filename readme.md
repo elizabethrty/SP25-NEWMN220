@@ -6,5 +6,5 @@
 4. [Homework 4](./homework-4/)
 5. [Homework 5](https://github.com/tastuck/thewagons)
 6. [Midterm](./midterm/)
-
+6. [Field Trip Project](./fieldtrip/)
 [Base URL](https://elizabethrty.github.io/SP25-NEWMN220/)
